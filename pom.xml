@@ -28,6 +28,13 @@
             <artifactId>calcite-core</artifactId>
             <version>1.26.0</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/org.apache.calcite/calcite-example-csv -->
+        <dependency>
+            <groupId>org.apache.calcite</groupId>
+            <artifactId>calcite-example-csv</artifactId>
+            <version>1.21.0</version>
+        </dependency>
+
 
         <!-- FOR MYSQL TESTING: https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
         <dependency>
